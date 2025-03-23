@@ -22,7 +22,7 @@
 ## 📝 System Diagram
 
 <div align="center">
-  <img src="sd.png" alt="System Diagram" width="800"/>
+  <img src="sd.png","sd.png" alt="System Diagram" width="800"/>
 </div>
 
 ## ✨ Highlighted Features
