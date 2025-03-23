@@ -22,7 +22,7 @@
 ## 📝 System Diagram
 
 <div align="center">
-  <img src="sd.png" alt="System Diagram" width="800"/>
+  <img src="![Ảnh chụp màn hình 2025-03-23 175942](https://github.com/user-attachments/assets/f9bdc9a8-99ed-4693-a59e-2099da0c1198).png" alt="System Diagram" width="800"/>
 </div>
 
 ## ✨ Highlighted Features
