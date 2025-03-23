@@ -20,9 +20,9 @@
 </div>
 
 ## 📝 System Diagram
-
+"
 <div align="center">
-  <img src="sd.png","sd.png" alt="System Diagram" width="800"/>
+  <img src="https://github.com/luongdieu2624/he-thong-nhan-dang-khuan-mat-va-tinh-toan-thoi-gian-di-chuyen-trong-mon-the-chat/blob/main/System%20Diagram.jpg" alt="System Diagram" width="800"/>
 </div>
 
 ## ✨ Highlighted Features
@@ -45,7 +45,7 @@
 
 ### 🖥️ Web Interface
 <div align="center">
-  <img src="mhm.png" alt="System Interface" width="800"/>
+  <img src="https://github.com/luongdieu2624/he-thong-nhan-dang-khuan-mat-va-tinh-toan-thoi-gian-di-chuyen-trong-mon-the-chat/blob/main/Web%20Interface.jpg" alt="System Interface" width="800"/>
 </div>
 
 Features:
